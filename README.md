@@ -1,56 +1,11 @@
-# suyeol-lee
+# Suyeol-Lee
 introduce my self
 <!DOCTYPE html>
 <html lang="ko">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>이수열 | GitHub 소개</title>
 
-<style>
-body{
-    font-family: Arial, sans-serif;
-    background:#f5f5f5;
-    margin:0;
-    padding:0;
-    line-height:1.6;
-}
-
-.container{
-    max-width:800px;
-    margin:60px auto;
-    background:white;
-    padding:40px;
-    border-radius:12px;
-    box-shadow:0 10px 25px rgba(0,0,0,0.1);
-}
-
-h1{
-    text-align:center;
-    margin-bottom:5px;
-}
-
-.subtitle{
-    text-align:center;
-    color:#666;
-    margin-bottom:30px;
-}
-
-.section{
-    margin-bottom:25px;
-}
-
-ul{
-    padding-left:20px;
-}
-
-.footer{
-    text-align:center;
-    margin-top:30px;
-    color:#888;
-    font-size:14px;
-}
-</style>
 
 </head>
 <body>
