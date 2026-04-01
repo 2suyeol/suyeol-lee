@@ -51,8 +51,6 @@ Introduce myself
 <h2>관심 분야</h2>
 <ul>
 <li>알고리즘 문제 해결</li>
-<li>게임 개발</li>
-<li>소프트웨어 개발</li>
 </ul>
 </div>
 
